@@ -29,6 +29,6 @@ function submitIt() {
   })
 }
 
-$(document).ready(function(){	$(document).ready(function(){
+$(document).ready(function(){	$(document).ready}(function(){
 
-} );
+} ;
